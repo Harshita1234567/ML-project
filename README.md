@@ -1,1 +1,1 @@
-## END TO END machine learning project training of Harshita
+## END TO END machine learning project of Harshita
